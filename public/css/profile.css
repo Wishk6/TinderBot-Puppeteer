@@ -1,0 +1,8 @@
+* {
+    font-family: 'Oswald', sans-serif;
+}
+
+.likes_dislikes{
+    display: flex;
+    justify-content: space-around;
+}
